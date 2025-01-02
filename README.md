@@ -116,3 +116,13 @@ contract MemCoin {
 - **Deployment**: Deploy on Ethereum or another EVM-compatible blockchain.
 
 Would you like further customization or integration into an existing ecosystem?
+
+# Merket Integrity
+The factors that ensure market integrity accrdoing to [FINRA](https://www.finra.org/rules-guidance/guidance/reports/2023-finras-examination-and-risk-monitoring-program/market-integrity)
+
+1. Consolidated Audit Trail (CAT)
+2. Best Execution
+3. Disclosure of Routing Information
+4. Fixed Income - Fair Pricing
+5. Fractional Shares: Rwpoering and Order Handling
+6. Eegulation SHO
