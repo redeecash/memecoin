@@ -125,4 +125,4 @@ The factors that ensure market integrity accrdoing to [FINRA](https://www.finra.
 3. Disclosure of Routing Information
 4. Fixed Income - Fair Pricing
 5. Fractional Shares: Rwpoering and Order Handling
-6. Eegulation SHO
+6. Regulation SHO
