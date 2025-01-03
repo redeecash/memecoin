@@ -117,7 +117,7 @@ contract MemCoin {
 
 Would you like further customization or integration into an existing ecosystem?
 
-# Merket Integrity
+# Market Integrity
 The factors that ensure market integrity accrdoing to [FINRA](https://www.finra.org/rules-guidance/guidance/reports/2023-finras-examination-and-risk-monitoring-program/market-integrity)
 
 1. Consolidated Audit Trail (CAT)
